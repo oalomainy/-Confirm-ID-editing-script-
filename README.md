@@ -3,4 +3,5 @@ Steps:![image](https://github.com/oalomainy/-Confirm-ID-editing-script-/assets/1
 Deleted the last sections of this multistep script
 Expected behavior;	Run same id
 Actual behavior;	The “Relative purity%” popped up into the result and it was not there before. 
- 
+ ![image](https://github.com/oalomainy/-Confirm-ID-editing-script-/assets/161784957/70bac9af-2863-436e-82fb-fc0ae958039d)
+
